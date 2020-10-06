@@ -30,7 +30,8 @@ PWA - Missing IOS touch icon + push installation / Offline cache working
 
 4 - integration with mongodB (not on production yet)
 
-5-  Fully resposive web design
+5-  Fully resposive web design 
+    https://imgur.com/a/MTlEZN0 (Images of Ipad, Iphone and G4 responsive grid & col sdls flexibility)
 
 **Missing features:**
 
