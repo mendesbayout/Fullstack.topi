@@ -14,7 +14,7 @@ SEO 91
 
 Offline service working
 
-PWA - Missing IOS touch icon / Offline service working
+PWA - Missing IOS touch icon + push installation / Offline cache working
 
 **Github api is facing instability due to many fetch requests at the same time**
 
