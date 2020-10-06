@@ -1,5 +1,12 @@
 **Topi fullstack challenge.**
 
+**Lighthouse audit** 
+Performance 97
+Acessbility 100
+Best practices 86
+SEO 91
+PWA - Missing IOS touch icon + Offline service worker chache
+
 **Features:**
 
 1 - Lightning salesforce components: Grid & Col
