@@ -12,7 +12,9 @@ Best practices 86
 
 SEO 91
 
-PWA - Missing IOS touch icon + Offline service worker chache
+Offline service working
+
+PWA - Missing IOS touch icon / Offline service working
 
 **Github api is facing instability due to many fetch requests at the same time**
 
