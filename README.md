@@ -1,6 +1,6 @@
-**Topi fullstack challenge.
+**Topi fullstack challenge.**
 
-**Features:
+**Features:**
 
 1 - Lightning salesforce components: Grid & Col
 
@@ -10,7 +10,7 @@
 
 4 - integration with mongodB (not on production yet)
 
-**Missing features:
+**Missing features:**
 
 1 - No language dropdown menu (couldnt load i18n into bundle)
 
