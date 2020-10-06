@@ -1,6 +1,6 @@
 **Topi fullstack challenge.**
 
-**React.js web app"
+**React.js web app**
 
 **Lighthouse audit** 
 
