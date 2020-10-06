@@ -8,6 +8,8 @@
 
 Performance 97 / Acessbility 100 / Best practices 86 / SEO 91
 
+Background styling (repeat but no resize to avoid multiple git puppet)
+
 Offline service working
 
 PWA - Missing IOS touch icon + push installation / Offline cache working
