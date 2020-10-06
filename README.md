@@ -8,13 +8,12 @@
 
 Performance 97 / Acessbility 100 / Best practices 86 / SEO 91
 
-
-
 Offline service working
 
 PWA - Missing IOS touch icon + push installation / Offline cache working
 
 **Github api is facing instability due to many fetch requests at the same time**
+Link for fullstack pre-deployment: https://github.com/mendesbayout/MERNfullstacktopi
 
 **Features:**
 
