@@ -20,3 +20,5 @@
 
 4 - no integration with local SQL db
 
+BUG on github deploy - not resposive as in localhost due to static assets issue on bundle (no webpack used, only vanilla script)
+
