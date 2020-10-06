@@ -6,13 +6,9 @@
 
 **Lighthouse audit**  
 
-Performance 97
+Performance 97 / Acessbility 100 / Best practices 86 / SEO 91
 
-Acessbility 100
 
-Best practices 86
-
-SEO 91
 
 Offline service working
 
