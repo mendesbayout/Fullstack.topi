@@ -1,8 +1,8 @@
-**Topi fullstack challenge.**
+**Topi fullstack challenge/most starred reps for javascript"
 
 **React.js web app**
 
-**Lighthouse audit** 
+**Lighthouse audit**  
 
 Performance 97
 
@@ -13,6 +13,8 @@ Best practices 86
 SEO 91
 
 PWA - Missing IOS touch icon + Offline service worker chache
+
+**Github api is facing instability due to many fetch requests at the same time**
 
 **Features:**
 
