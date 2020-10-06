@@ -10,6 +10,8 @@
 
 4 - integration with mongodB (not on production yet)
 
+5- Fully resposive web design
+
 **Missing features:**
 
 1 - No language dropdown menu (couldnt load i18n into bundle)
@@ -20,5 +22,5 @@
 
 4 - no integration with local SQL db
 
-BUG on github deploy - not resposive as in localhost due to static assets issue on bundle (no webpack used, only vanilla script)
+
 
