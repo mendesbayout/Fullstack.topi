@@ -1,4 +1,4 @@
-**Topi fullstack challenge/most starred reps for javascript"
+**Topi fullstack challenge/most starred reps for javascript**
 
 **React.js web app**
 
@@ -20,7 +20,7 @@ PWA - Missing IOS touch icon / Offline service working
 
 **Features:**
 
-1 - Lightning salesforce components: Grid & Col
+1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
 
 2 - Infinite scrolling page listing the most stared apps for Javascript
 
