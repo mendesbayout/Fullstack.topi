@@ -28,7 +28,7 @@ PWA - Missing IOS touch icon / Offline service working
 
 4 - integration with mongodB (not on production yet)
 
-5- Fully resposive web design
+5-  Fully resposive web design
 
 **Missing features:**
 
@@ -36,7 +36,7 @@ PWA - Missing IOS touch icon / Offline service working
 
 2 - No background integration on this early deployment (to solve)
 
-3 - Issues on mobile browsers - can't load build script (to solve)
+3 - facing Issues on mobile browsers - can't load build and execute fetch, only if isntalled as webapp (Refer to next branch) (to solve)
 
 4 - no integration with local SQL db
 
