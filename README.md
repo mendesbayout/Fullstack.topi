@@ -11,13 +11,13 @@ https://www.lightningdesignsystem.com/
 Lighthouse audit passed (Overral 93)
 
 ### Instalation
-#### NPM INSTALL .
+##### NPM INSTALL .
 
 ### Development 
-#### NPM RUN DEV (concurrently with FE)
+##### NPM RUN DEV (concurrently with FE)
 
-### Deployment
-#### NPM RUN HEROKU-POSTBUILD (Failing here due hardware issues i supose)
+#### Deployment
+##### NPM RUN HEROKU-POSTBUILD (Failing here due hardware issues i supose)
 
 
 
