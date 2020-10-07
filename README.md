@@ -1,23 +1,15 @@
-**Topi fullstack challenge/most starred reps for javascript**
 
-**React.js web app** 
+# TOPI.IO Challenge (Frontend)
+## Most starred reps for javascript (v1.4.1)
 
-**FRONT-END Deployment for exam"
+<img src="https://img.icons8.com/bubbles/200/000000/react.png">
+<img src="https://img.icons8.com/ios-filled/50/000000/salesforce.png"/> Lightning design system (sdls Grid & Col )
+https://www.lightningdesignsystem.com/
+<img src="https://img.icons8.com/color/96/000000/npm.png"/>
+<img src="https://img.icons8.com/color/96/000000/lighthouse.png"/>
+Lighthouse audit passed (Overral 93)
 
-**Lighthouse audit**  
 
-Performance 97 / Acessbility 100 / Best practices 86 / SEO 91
-
-Background styling (repeat but no resize to avoid multiple git puppet)
-
-Offline service working
-
-PWA - Missing IOS touch icon + push installation / Offline cache working
-
-**Github api is facing instability due to many fetch requests at the same time**
-Link for fullstack pre-deployment: https://github.com/mendesbayout/MERNfullstacktopi
-
-**Features:**
 
 1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
 
