@@ -11,7 +11,7 @@ Lighthouse audit passed (Overral 93)
 
 
 
-### Features
+### Features v 1.4.1
 
 ###### 1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
 
