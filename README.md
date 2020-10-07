@@ -15,7 +15,7 @@ https://www.lightningdesignsystem.com/
 ##### NPM INSTALL .
 
 ### Development 
-##### NPM RUN DEV (concurrently with FE)
+##### NPM RUN DEV (concurrently with FE) - localhost:3000 & localhost:5000 (FE +BE)
 
 #### Deployment
 ##### NPM RUN HEROKU-POSTBUILD (Failing here due hardware issues i supose)
@@ -38,7 +38,7 @@ https://imgur.com/a/MTlEZN0 (Images of Ipad, Iphone and G4 responsive grid & col
 
 ### Missing features
 
-###### Node backend integration
+###### Node backend integration/proxy calls
 ###### Backend deployment 
 ###### i18n language dropdown menu
 ###### Heroku deployment (hardware issues)
