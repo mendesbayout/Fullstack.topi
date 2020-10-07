@@ -8,6 +8,7 @@ https://www.lightningdesignsystem.com/
 <img src="https://img.icons8.com/color/64/000000/stackoverflow.png"/>
 <img src="https://img.icons8.com/color/64/000000/npm.png"/>
 <img src="https://img.icons8.com/color/64/000000/lighthouse.png"/>
+
 ## Lighthouse audit passed (Overral 93)
 
 ### Instalation
