@@ -10,6 +10,15 @@ https://www.lightningdesignsystem.com/
 <img src="https://img.icons8.com/color/64/000000/lighthouse.png"/>
 Lighthouse audit passed (Overral 93)
 
+### Instalation
+## NPM INSTALL .
+
+### Development 
+## NPM RUN DEV
+
+### Deployment
+## NPM RUN BUILD
+
 
 
 ### Features v 1.4.1
