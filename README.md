@@ -15,13 +15,13 @@ Lighthouse audit passed (Overral 93)
 
 ###### 1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
 
-######2 - Infinite scrolling page listing the most stared apps for Javascript
+###### 2 - Infinite scrolling page listing the most stared apps for Javascript
 
-######3 - Navbar for fullstack integration (register & login + auth & bcrypt)
+###### 3 - Navbar for fullstack integration (register & login + auth & bcrypt)
 
-######4 - integration with mongodB (not on production yet)
+###### 4 - integration with mongodB (not on production yet)
 
-######5-  Fully resposive web design 
+###### 5-  Fully resposive web design 
 
 https://imgur.com/a/MTlEZN0 (Images of Ipad, Iphone and G4 responsive grid & col sdls flexibility)
 
