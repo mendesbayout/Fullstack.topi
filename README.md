@@ -10,14 +10,14 @@ https://www.lightningdesignsystem.com/
 <img src="https://img.icons8.com/color/64/000000/lighthouse.png"/>
 Lighthouse audit passed (Overral 93)
 
-### Instalation
-## NPM INSTALL .
+## Instalation
+### NPM INSTALL .
 
-### Development 
-## NPM RUN DEV
+## Development 
+### NPM RUN DEV (concurrently with FE)
 
 ### Deployment
-## NPM RUN BUILD
+## NPM RUN HEROKU-POSTBUILD (Failing here due hardware issues i supose)
 
 
 
