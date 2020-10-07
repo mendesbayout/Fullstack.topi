@@ -11,24 +11,23 @@ Lighthouse audit passed (Overral 93)
 
 
 
-1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
+### Features
 
-2 - Infinite scrolling page listing the most stared apps for Javascript
+###### 1 - Lightning salesforce components: Grid & Col sdls + Number of forks (with react-icon)
 
-3 - Navbar for fullstack integration (register & login + auth & bcrypt)
+######2 - Infinite scrolling page listing the most stared apps for Javascript
 
-4 - integration with mongodB (not on production yet)
+######3 - Navbar for fullstack integration (register & login + auth & bcrypt)
 
-5-  Fully resposive web design 
-    https://imgur.com/a/MTlEZN0 (Images of Ipad, Iphone and G4 responsive grid & col sdls flexibility)
+######4 - integration with mongodB (not on production yet)
 
-**Missing features:**
+######5-  Fully resposive web design 
 
-1 - No language dropdown menu (couldnt load i18n into bundle)
+https://imgur.com/a/MTlEZN0 (Images of Ipad, Iphone and G4 responsive grid & col sdls flexibility)
 
-2 - No background integration on this early deployment (to solve)
+### Missing features
 
-3 - facing Issues on mobile browsers - can't load build and execute fetch, only if isntalled as webapp (Refer to next branch) (to solve)
-
-4 - no integration with local SQL db
-
+###### Node backend integration
+###### Backend deployment 
+###### i18n language dropdown menu
+###### Heroku deployment (hardware issues)
